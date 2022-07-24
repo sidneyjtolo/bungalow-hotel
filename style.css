@@ -16,6 +16,8 @@
     box-sizing: border-box;
 }
 
+[class*="grid-"], [class*="grid_"], [class~="grid"] {margin:0; }
+
 /* ---------- Temporary styles for structural html -------------- */
 
 
